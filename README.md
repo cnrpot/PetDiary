@@ -28,7 +28,7 @@
 
 ## 🚀 运行指南
 
-1.  克隆仓库：`git clone https://github.com/你的用户名/PetDiary.git`
+1.  克隆仓库：`git clone https://github.com/cnrpot/PetDiary.git`
 2.  使用 **Android Studio Ladybug (2024.2.1)** 或更高版本打开项目。
 3.  等待 Gradle 同步完成（建议配置国内镜像源以加速）。
 4.  点击 **Run** 按钮，在 Android 15 (API 35+) 模拟器或真机上运行。
