@@ -2,7 +2,8 @@
 
 一款基于现代 Android 技术栈开发的治愈系宠物成长记录应用。
 
-![App Preview](https://via.placeholder.com/800x400?text=Pet+Diary+App+Preview) <!-- 建议上传一张你运行后的截图替换此处 -->
+<img width="1440" height="3200" alt="Screenshot_2026-06-28-15-43-16-661_com example my" src="https://github.com/user-attachments/assets/34d02969-6242-4ffb-a42c-8cc4ad7bd464" />
+张你运行后的截图替换此处 -->
 
 ## 🌟 项目简介
 
